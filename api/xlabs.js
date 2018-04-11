@@ -9,7 +9,7 @@ window.xLabs = {
   callbackState : null,
   callbackIdPath : null,
   requestAccessIdx : 0,
-  developerToken : null,
+  developerToken : "b661dc22-d729-443c-93f0-da7a5b426993",
 
   XLABS_EXTENSION_ID : "licbccoefgmmbgipcgclfgpbicijnlga",
 
